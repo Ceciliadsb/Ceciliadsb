@@ -1,4 +1,4 @@
-## Oiii eu sou a Cecilia Batista , estudante de Ads , e front end em formação fullstack !
+## Oiii eu sou a Cecilia Batista , estudante de Ads e front end em formação fullstack !
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceciliadsb&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
