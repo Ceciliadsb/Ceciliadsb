@@ -1,4 +1,4 @@
-## Olá! Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC e tenho experiência em diversas tecnologias, incluindo React.js, JavaScript, Node.js, MySQL, HTML, CSS, Docker, Sequelize, entre outros. Estou constantemente aprendendo e aprimorando minhas habilidades de desenvolvimento de software com Dev club  e também no traballho atual 
+## Olá! Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC e tenho experiência em diversas tecnologias, incluindo React.js, JavaScript, Node.js, MySQL, HTML, CSS, Docker, Sequelize, entre outros. Estou constantemente aprendendo e aprimorando minhas habilidades de desenvolvimento de software com Dev club  e também no traballho atual . Estarei postando meus projetos aqui!!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceciliadsb&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
